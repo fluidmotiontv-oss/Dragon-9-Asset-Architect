@@ -1,0 +1,8 @@
+{
+  "name": "Dragon 9 Asset Architect",
+  "description": "Specialized AI asset architect decomposing Super Puff multimedia JSON manifests into production-ready visual, audio, and voice generative prompts under the Dragon 9 Protocol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
